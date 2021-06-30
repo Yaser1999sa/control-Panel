@@ -1,2 +1,2 @@
-# control-Panel
-creating database/website for robot arm
+# controlPanel
+ create database/website for control panel
